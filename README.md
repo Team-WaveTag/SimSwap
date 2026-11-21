@@ -4,7 +4,16 @@
 
 **Our method can realize **arbitrary face swapping** on images and videos with **one single trained model**.**
 
-***We are recruiting full-time engineers. If you are interested, please send an [email](mailto:chen19910528@sjtu.edu.cn?subject=[GitHub]%20Source%20Han%20Sans) to my team. Please refer to the website for specific recruitment conditions: [Requirements](https://join.sjtu.edu.cn/Admin/QsPreview.aspx?qsid=44f5413a90974114b8f5e643177ef32d)***
+SimSwap × Infistar.cc（https://www.infistar.cc/register?aff=JVQYAW6P&ref_source=link）
+Claude, GPT, Gemini, Grok, DeepSeek & more — one API key, a fraction of official prices.
+
+💥 Up to 99% off: pay as little as 1% of official prices.
+✅ 100% genuine models from official channels, each independently verifiable.
+⚡ 1,000+ redundant routes with automatic failover.
+🧩 200+ models from 16 brands: text, image, and video with one key.
+🏆 Recommended by 100+ top open-source projects, including projects with 100k+ GitHub stars.
+🎯 For SimSwap developers: use the same key to debug Python scripts and prototype image or video workflows.
+🎁 SimSwap users get CNY 5 in trial credit when they sign up through SimSwap's exclusive link（https://www.infistar.cc/register?aff=JVQYAW6P&ref_source=link）.
 
 Training and test code are now available!
 [ <a href="https://colab.research.google.com/github/neuralchen/SimSwap/blob/main/train.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>](https://colab.research.google.com/github/neuralchen/SimSwap/blob/main/train.ipynb)
