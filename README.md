@@ -4,9 +4,9 @@
 
 **Our method can realize **arbitrary face swapping** on images and videos with **one single trained model**.**
 
-SimSwap × Infistar.cc（YOUR_BANNER_IMAGE_PATH）（https://www.infistar.cc/register?aff=JVQYAW6P&ref_source=link）
+SimSwap × Infistar.cc[<img width="1600" height="800" alt="微信图片_20261123131420_3397_4" src="https://github.com/user-attachments/assets/c9cb4b65-a426-46c6-b0f2-589b52fa1b93" />](https://www.infistar.cc/register?aff=JVQYAW6P&ref_source=link)
 
-SimSwap × Infistar.cc（https://www.infistar.cc/register?aff=JVQYAW6P&ref_source=link）
+[SimSwap × Infistar.cc](https://www.infistar.cc/register?aff=JVQYAW6P&ref_source=link)
 Claude, GPT, Gemini, Grok, DeepSeek & more — one API key, a fraction of official prices.
 
 💥 Up to 99% off: pay as little as 1% of official prices.
